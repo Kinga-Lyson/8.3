@@ -1,0 +1,23 @@
+{
+  "name": "kodilla-8.3",
+  "version": "1.0.0",
+  "description": "8.3 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "grunt",
+    "8.3"
+  ],
+  "author": "Kinga Łysoń",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
